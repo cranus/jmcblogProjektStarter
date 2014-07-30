@@ -1,0 +1,11 @@
+{
+    "name" : "stichler/projektstarter",
+    "description": "Beispiel für Blog",
+    "license": "MIT",
+    "require": {
+        "phpunit/phpunit": "4.1.*",
+        "smarty/smarty": "3.1.18",
+        "gabordemooij/redbean": "3.5.*"
+    }
+
+}
